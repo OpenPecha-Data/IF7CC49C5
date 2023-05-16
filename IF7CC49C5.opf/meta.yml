@@ -1,0 +1,18 @@
+id: IF7CC49C5
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:33.819302
+last_modified: 2023-01-04 11:32:33.819320
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  4B77:
+    title: The Lament of Rudra
+    base_file: 4B77.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
